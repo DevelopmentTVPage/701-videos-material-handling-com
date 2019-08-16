@@ -1,0 +1,16 @@
+{
+    "title": "Material Handling TVPages",
+    "baseURL": "https:\/\/videos.material-handling.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759327",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "material-handling.com"
+    }
+}
